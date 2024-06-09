@@ -1,6 +1,13 @@
 // ==UserScript==
 // @name         paste-on-chatgpt
+// @namespace    paste-on-chatgpt
+// @version      0.0.1
+// @description  paste-on-chatgpt
+// @author       pasteOnChatGPT
 // @match        https://chatgpt.com/*
+// @license      MIT
+// @homepage     https://github.com/pasteOnChatGPT/paste-on-chatgpt
+// @grant        none
 // ==/UserScript==
 
 (() => {
