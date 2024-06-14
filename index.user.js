@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         paste-on-chatgpt
 // @namespace    paste-on-chatgpt
-// @version      1.1.1
+// @version      1.1.2
 // @description  paste-on-chatgpt
 // @author       pasteOnChatGPT
 // @match        https://chatgpt.com/*
