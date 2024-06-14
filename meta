@@ -7,5 +7,6 @@
 // @match        https://chatgpt.com/*
 // @license      MIT
 // @homepage     https://github.com/pasteOnChatGPT/paste-on-chatgpt
+// @updateURL    https://openuserjs.org/meta/pasteOnChatGPT/paste-on-chatgpt.meta.js
 // @grant        none
 // ==/UserScript==
